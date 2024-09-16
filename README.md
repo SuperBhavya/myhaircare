@@ -1,4 +1,4 @@
-# HAIR FALL PREDICTION USING ANN.
+# HAIR FALL PREDICTION USING ANN.(Collecting some basis for my upcoming projects)
 
 This project presents a system implemented in Python using Artificial Neural Networks (ANN) as a classification algorithm to predict hair fall in individuals based on 22 effective factors such as heredity, hairline pattern, and average daily hair loss. Data was collected through online surveys on a user-interactive website. The proposed model achieved an accuracy of approximately 80% on the test dataset, demonstrating its effectiveness in predicting future hair fall. The study highlights the importance of timely consultation with a dermatologist to avoid unnecessary expenses and resources wasted on hair loss remedies.
 
